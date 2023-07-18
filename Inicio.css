@@ -545,6 +545,11 @@
     margin-left: initial;
   }
 
+  .u-section-4 .embed-responsive-1 {
+    left: -39%;
+    top: -39%;
+  }
+
   .u-section-4 .u-text-2 {
     width: 340px;
     margin-bottom: 60px;
